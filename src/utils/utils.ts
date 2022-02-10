@@ -1046,11 +1046,11 @@ export const merkleValidatorByNetwork = {
 
 export const wyvern2_2ConfigByNetwork = {
   [Network.Main]: {
-    wyvernExchangeContractAddress: "0x7be8076f4ea4a4ad08075c2508e481d6c946d12b",
+    wyvernExchangeContractAddress: "0x6fbbda6e493b486bd9fef2b31bc0801124a62bd4",
     wyvernProxyRegistryContractAddress:
-      "0xa5409ec958c83c3f309868babaca7c86dcb077c1",
+      "0xa59d3ac57ec4f7cc8fd1b5b77d097b8e48744b8a",
     wyvernTokenTransferProxyContractAddress:
-      "0xe5c783ee536cf5e63e792988335c4255169be4e1",
+      "0x2114692a95d844ae00a31ae35c7d96716f28f34a",
   },
   [Network.Rinkeby]: {
     wyvernExchangeContractAddress: "0x5206e78b21ce315ce284fb24cf05e0585a93b1d9",
