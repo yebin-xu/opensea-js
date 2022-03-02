@@ -40,7 +40,7 @@
     "query-string": "^6.11.1",
     "web3": "0.20.7",
     "wyvern-js": "git+https://github.com/ProjectOpenSea/wyvern-js.git#v4.0.1",
-    "wyvern-schemas": "git+https://github.com/ProjectOpenSea/wyvern-schemas.git#v0.15.1"
+    "wyvern-schemas": "git+https://github.com/ProjectOpenSea/wyvern-schemas.git#c962a7817b9f3b72157b3d1a2a0886af0039f737"
   },
   "devDependencies": {
     "@types/chai": "4.3.0",
